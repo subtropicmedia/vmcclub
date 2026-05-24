@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Добро пожаловать в клуб!
 ---
+Сборник проверенных решений и опыта участников Telegram-чата по мопедам VMC Monster и VMC Grace. Создан, чтобы не искать важную информацию в сотнях сообщений чата.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Присоединяйся к нам в Telegram, делись своим опытом — и он обязательно попадёт в этот архив.
