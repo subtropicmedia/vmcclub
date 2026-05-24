@@ -11,6 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "VMC Monster & Grace Club",
     pageTitleSuffix: "",
     enableSPA: true,
+    defaultBranch: "main",
     enablePopovers: true,
     analytics: {
       provider: "plausible",
